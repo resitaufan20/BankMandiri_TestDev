@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8D9D2C7E-E7AA-45E3-8509-79E69308E16F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mandiri_test.Services.BukuAPI", "mandiri_test.Services.BukuAPI\mandiri_test.Services.BukuAPI.csproj", "{30F22044-6BD9-4FE1-B959-EACDE1144D88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{96BE0410-2181-4B08-A4EF-5B19183518A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mandiri_test.Web", "mandiri_test.Web\mandiri_test.Web.csproj", "{9A8ACC58-13B0-4A15-8DE9-C3789D051C22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mandiri_test.Services.AuthAPI", "mandiri_test.Services.AuthAPI\mandiri_test.Services.AuthAPI.csproj", "{80EF1CDF-16C2-4783-8CD3-BDCFEB647E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mandiri_test.Services.TransAPI", "mandiri_test.Services.TransAPI\mandiri_test.Services.TransAPI.csproj", "{515D65E0-91DA-480D-9568-E2C884F1355C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F22044-6BD9-4FE1-B959-EACDE1144D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F22044-6BD9-4FE1-B959-EACDE1144D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F22044-6BD9-4FE1-B959-EACDE1144D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F22044-6BD9-4FE1-B959-EACDE1144D88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8ACC58-13B0-4A15-8DE9-C3789D051C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8ACC58-13B0-4A15-8DE9-C3789D051C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8ACC58-13B0-4A15-8DE9-C3789D051C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8ACC58-13B0-4A15-8DE9-C3789D051C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EF1CDF-16C2-4783-8CD3-BDCFEB647E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EF1CDF-16C2-4783-8CD3-BDCFEB647E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EF1CDF-16C2-4783-8CD3-BDCFEB647E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EF1CDF-16C2-4783-8CD3-BDCFEB647E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515D65E0-91DA-480D-9568-E2C884F1355C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515D65E0-91DA-480D-9568-E2C884F1355C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515D65E0-91DA-480D-9568-E2C884F1355C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515D65E0-91DA-480D-9568-E2C884F1355C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30F22044-6BD9-4FE1-B959-EACDE1144D88} = {8D9D2C7E-E7AA-45E3-8509-79E69308E16F}
+		{9A8ACC58-13B0-4A15-8DE9-C3789D051C22} = {96BE0410-2181-4B08-A4EF-5B19183518A0}
+		{80EF1CDF-16C2-4783-8CD3-BDCFEB647E06} = {8D9D2C7E-E7AA-45E3-8509-79E69308E16F}
+		{515D65E0-91DA-480D-9568-E2C884F1355C} = {8D9D2C7E-E7AA-45E3-8509-79E69308E16F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5206A322-719A-46EC-80AC-F2AD2A7B3697}
+	EndGlobalSection
+EndGlobal

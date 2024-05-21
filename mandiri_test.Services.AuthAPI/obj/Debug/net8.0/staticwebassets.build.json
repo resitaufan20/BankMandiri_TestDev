@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/BIo+w79S+ugAqvEcwA+FUohojNC8Ikbfbu3gT6vlrM=",
+  "Source": "mandiri_test.Services.AuthAPI",
+  "BasePath": "_content/mandiri_test.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mandiri_test.Services.TransAPI.props" />
+</Project>

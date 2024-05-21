@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|c:\\users\\resi taufan\\source\\repos\\mandiri_test\\mandiri_test.services.transapi\\controllers\\pinjamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|solutionrelative:mandiri_test.services.transapi\\controllers\\pinjamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F22044-6BD9-4FE1-B959-EACDE1144D88}|mandiri_test.Services.BukuAPI\\mandiri_test.Services.BukuAPI.csproj|c:\\users\\resi taufan\\source\\repos\\mandiri_test\\mandiri_test.services.bukuapi\\controllers\\bukuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F22044-6BD9-4FE1-B959-EACDE1144D88}|mandiri_test.Services.BukuAPI\\mandiri_test.Services.BukuAPI.csproj|solutionrelative:mandiri_test.services.bukuapi\\controllers\\bukuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|c:\\users\\resi taufan\\source\\repos\\mandiri_test\\mandiri_test.services.transapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|solutionrelative:mandiri_test.services.transapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|c:\\users\\resi taufan\\source\\repos\\mandiri_test\\mandiri_test.services.transapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|solutionrelative:mandiri_test.services.transapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|c:\\users\\resi taufan\\source\\repos\\mandiri_test\\mandiri_test.services.transapi\\models\\dto\\pinjamdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|solutionrelative:mandiri_test.services.transapi\\models\\dto\\pinjamdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|c:\\users\\resi taufan\\source\\repos\\mandiri_test\\mandiri_test.services.transapi\\models\\dto\\pinjamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515D65E0-91DA-480D-9568-E2C884F1355C}|mandiri_test.Services.TransAPI\\mandiri_test.Services.TransAPI.csproj|solutionrelative:mandiri_test.services.transapi\\models\\dto\\pinjamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "mandiri_test.Services.TransAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\appsettings.json",
+              "RelativeToolTip": "mandiri_test.Services.TransAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T12:08:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BukuAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.BukuAPI\\Controllers\\BukuAPIController.cs",
+              "RelativeDocumentMoniker": "mandiri_test.Services.BukuAPI\\Controllers\\BukuAPIController.cs",
+              "ToolTip": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.BukuAPI\\Controllers\\BukuAPIController.cs",
+              "RelativeToolTip": "mandiri_test.Services.BukuAPI\\Controllers\\BukuAPIController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwGQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:58:24.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Program.cs",
+              "RelativeDocumentMoniker": "mandiri_test.Services.TransAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Program.cs",
+              "RelativeToolTip": "mandiri_test.Services.TransAPI\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:52:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinjamController.cs",
+              "DocumentMoniker": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Controllers\\PinjamController.cs",
+              "RelativeDocumentMoniker": "mandiri_test.Services.TransAPI\\Controllers\\PinjamController.cs",
+              "ToolTip": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Controllers\\PinjamController.cs",
+              "RelativeToolTip": "mandiri_test.Services.TransAPI\\Controllers\\PinjamController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:41:17.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PinjamDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDetailDto.cs",
+              "RelativeDocumentMoniker": "mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDetailDto.cs",
+              "ToolTip": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDetailDto.cs",
+              "RelativeToolTip": "mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:42:39.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PinjamDto.cs",
+              "DocumentMoniker": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDto.cs",
+              "RelativeDocumentMoniker": "mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDto.cs",
+              "ToolTip": "C:\\Users\\Resi Taufan\\source\\repos\\mandiri_test\\mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDto.cs",
+              "RelativeToolTip": "mandiri_test.Services.TransAPI\\Models\\Dto\\PinjamDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:42:36.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YeH2tasSWiu5GY+DkRj+Rq57N4/rQ11z0deP7CJsC4Y=",
+  "Source": "mandiri_test.Services.TransAPI",
+  "BasePath": "_content/mandiri_test.Services.TransAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

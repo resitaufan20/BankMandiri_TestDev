@@ -1,0 +1,6 @@
+@mandiri_test.Services.BukuAPI_HostAddress = http://localhost:5294
+
+GET {{mandiri_test.Services.BukuAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,75 @@
+﻿@model BukuDto
+
+<form asp-action="BukuCreate">
+    <br />
+    <div class="container border p-3">
+        <h1 class="text-white text-center">Create Buku</h1>
+
+        <hr />
+        <div class="row">
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;"> Judul</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Judul" class="form-control" />
+                <span asp-validation-for="Judul" class="text-danger"></span>
+            </div>
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Pengarang</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Pengarang" class="form-control" />
+                <span asp-validation-for="Pengarang" class="text-danger"></span>
+            </div>
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Penerbit</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Penerbit" class="form-control" />
+                <span asp-validation-for="Penerbit" class="text-danger"></span>
+            </div>
+
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Tahun Terbit</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="TahunTerbit" class="form-control" />
+                <span asp-validation-for="TahunTerbit" class="text-danger"></span>
+            </div>
+
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Harga</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Harga" class="form-control" />
+                <span asp-validation-for="Harga" class="text-danger"></span>
+            </div>
+
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Jumlah Buku</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="JumlahBuku" class="form-control" />
+                <span asp-validation-for="JumlahBuku" class="text-danger"></span>
+            </div>
+
+            <div class="col-5 offset-2">
+
+                <a asp-action="BukuIndex" class="btn-primary btn form-control ">Back to List</a>
+            </div>
+            <div class="col-5">
+                <input type="submit" value="Create" class="btn btn-success form-control" />
+
+            </div>
+
+        </div>
+
+        <div>
+        </div>
+    </div>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

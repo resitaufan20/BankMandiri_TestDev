@@ -1,0 +1,66 @@
+﻿@model BukuDto
+
+<form asp-action="BukuDelete">
+    <br />
+    <div class="container border p-3">
+        <h1 class="text-white text-center">Delete Buku</h1>
+        <input asp-for="IdBuku" hidden />
+        <hr />
+        <div class="row">
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;"> Judul</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Judul" disabled class="form-control" />
+            </div>
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Pengarang</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Pengarang" disabled class="form-control" />
+            </div>
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Penerbit</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Penerbit" disabled class="form-control" />
+            </div>
+
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Tahun Terbit</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="TahunTerbit" disabled class="form-control" />
+            </div>
+
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Harga</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Harga" disabled class="form-control" />
+            </div>
+
+            <div class="col-2">
+                <label class="control-label pt-2" style="font-size:20px;">Jumlah Buku</label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="JumlahBuku" disabled class="form-control" />
+            </div>
+
+
+
+
+            <div class="col-5 offset-2">
+                <a asp-action="BukuIndex" class="btn-primary btn form-control ">Back to List</a>
+            </div>
+            <div class="col-5">
+                <input type="submit" value="Delete" class="btn btn-danger form-control" />
+            </div>
+
+        </div>
+
+        <div>
+        </div>
+    </div>
+</form>
+

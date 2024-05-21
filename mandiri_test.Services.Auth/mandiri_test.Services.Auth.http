@@ -1,0 +1,6 @@
+@mandiri_test.Services.Auth_HostAddress = http://localhost:5090
+
+GET {{mandiri_test.Services.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
